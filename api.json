@@ -1,38 +1,124 @@
 [
-    {
-      "precio": 1200,
-      "id": 1,
-      "title": "milanesa",
-      "thumbnailUrl": ""
-    },
-    {
-      "precio": 1300,
-      "id": 2,
-      "title": "Pizza",
-      "thumbnailUrl": ""
-    },
-    {
-      "precio": 900,
-      "id": 3,
-      "title": "empanadas",
-      "thumbnailUrl": ""
-    },
-    {
-      "precio": 0,
-      "id": 4,
-      "title": "",
-      "thumbnailUrl": ""
-    },
-    {
-      "precio": 10,
-      "id": 5,
-      "title": "",
-      "thumbnailUrl": ""
-    },
-    {
-      "precio": 150,
-      "id": 6,
-      "title": "",
-      "thumbnailUrl": ""
-    }
-  ]
+  {
+    "precio": 760,
+    "id": 1,
+    "title": "FUNDA BRILLOSA",
+    "thumbnailUrl": "https://i.pinimg.com/564x/a4/64/20/a46420dba37554b35efbc7894de58bc3.jpg"
+  },
+  {
+    "precio": 600,
+    "id": 2,
+    "title": "FUNDA CARITAS BLANCO Y NEGRO",
+    "thumbnailUrl": "https://i.pinimg.com/564x/4d/ea/2e/4dea2e87d671846ab7d69ea4bfc8a50a.jpg"
+  },
+  {
+    "precio": 650,
+    "id": 3,
+    "title": "FUNDA DRAGON",
+    "thumbnailUrl": "https://i.pinimg.com/564x/1c/cf/44/1ccf44ab0013d8724a6852ba345c6a08.jpg"
+  },
+  {
+    "precio": 800,
+    "id": 4,
+    "title": "FUNDA CORAZON",
+    "thumbnailUrl": "https://i.pinimg.com/564x/a4/ca/66/a4ca66612467f82f0cae163d94933421.jpg"
+  },
+  {
+    "precio": 650,
+    "id": 5,
+    "title": "FUNDA MARMOL",
+    "thumbnailUrl": "https://i.pinimg.com/564x/3c/e1/83/3ce183b03c93d45e4156e40fc958d7b1.jpg"
+  },
+  {
+    "precio": 900,
+    "id": 6,
+    "title": "FUNDA DISNEY (de goma)",
+    "thumbnailUrl": "https://i.pinimg.com/564x/15/61/0d/15610d2742093840a729c9ae1ea9c451.jpg"
+  },
+  {
+    "precio": 950,
+    "id": 7 ,
+    "title": "FUNDA MARIPOSA CON CADENITA",
+    "thumbnailUrl": "https://i.pinimg.com/564x/31/b8/e0/31b8e01dd8ed726e353294042e4e7c48.jpg"
+  },
+  {
+    "precio": 850,
+    "id":8,
+    "title": "FUNDA DE LINEAS",
+    "thumbnailUrl": "https://i.pinimg.com/564x/5c/1e/35/5c1e358cfa9f8fa34916c1e2c50ddf73.jpg"
+  },
+  {
+    "precio": 500 ,
+    "id":9 ,
+    "title": "FUNDA TRANSPARENTE BASICA",
+    "thumbnailUrl": "https://i.pinimg.com/564x/f7/f5/64/f7f564ae326b652cbc16a546ce048bf1.jpg"
+  },
+  {
+    "precio":550,
+    "id": 10 ,
+    "title": " FUNDA TRANPARENTE CON BORDE DE COLOR",
+    "thumbnailUrl": "https://i.pinimg.com/564x/36/4d/ca/364dca926fea13cb099fa97c71bd06d7.jpg"
+  },
+  {
+    "precio": 600 ,
+    "id":11,
+    "title": "FUNDA BASICA",
+    "thumbnailUrl": "https://i.pinimg.com/564x/57/f9/16/57f916cb1f2f2af1ee58d10780aaa2c0.jpg"
+  },
+  {
+    "precio": 1100,
+    "id": 12,
+    "title": "FUNDA PARA COMPARTIR",
+    "thumbnailUrl": "https://i.pinimg.com/564x/c5/f3/ed/c5f3ed3a276ff5906dc32522748c5bf1.jpg"
+  },
+  {
+    "precio": 1000,
+    "id":13 ,
+    "title": "FUNDA ANIME (personalizada)",
+    "thumbnailUrl": "https://i.pinimg.com/564x/dc/ad/8a/dcad8a3a6929a9b0731e285ccc267c73.jpg"
+  },
+  {
+    "precio":3 ,
+    "id":14 ,
+    "title": "FUNDA PERSONALIZADA (a tu gusto!)",
+    "thumbnailUrl": "https://i.pinimg.com/564x/ec/d6/be/ecd6bed68006d84a50b67ed10e43c9bf.jpg"
+  },
+  {
+    "precio": 1800,
+    "id":15 ,
+    "title": "FUNDA PUFFER",
+    "thumbnailUrl": "https://i.pinimg.com/564x/3b/f3/e2/3bf3e2847faaaadc77ed4866f8a1e292.jpg"
+  },
+  {
+    "precio": 1400,
+    "id":16 ,
+    "title": "FUNDA CORAZONES 3D",
+    "thumbnailUrl": "https://i.pinimg.com/564x/d7/5a/04/d75a044929da34343b6fa0cc29cec783.jpg"
+  },
+  {
+    "precio": 1500,
+    "id":17 ,
+    "title": "FUNDA ESPEJO",
+    "thumbnailUrl": "https://i.pinimg.com/564x/24/9f/54/249f54ebf1831b9db31a9ff6285c8aa9.jpg"
+  },
+  {
+    "precio": 800,
+    "id":18 ,
+    "title": "FUNDA LLAMAS",
+    "thumbnailUrl": "https://i.pinimg.com/564x/2e/d2/c6/2ed2c6c2fa198fa7531a26747cd26de2.jpg"
+  },
+  {
+    "precio": 800 ,
+    "id":19 ,
+    "title": "FUNDA COW",
+    "thumbnailUrl": "https://i.pinimg.com/564x/21/8f/18/218f1897a8be7c4f8caeb70f18eae448.jpg"
+  },
+  {
+    "precio": 1700,
+    "id":20 ,
+    "title": "FUNDA FOTO (personalizada)",
+    "thumbnailUrl": "https://i.pinimg.com/564x/3d/90/49/3d9049f13a79828d932766e0b66b754b.jpg"
+  }
+
+
+]
