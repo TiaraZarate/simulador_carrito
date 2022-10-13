@@ -1,0 +1,13 @@
+.h1{
+color: rosybrown;
+font-family: ui-monospace;
+font-weight: bold;
+text-decoration:overline; 
+};
+
+.p{
+    color: rosybrown;
+    font-family: ui-monospace;
+    font-weight: bold;
+    text-decoration:overline;  
+}
